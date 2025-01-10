@@ -4,7 +4,7 @@ export default function Companies() {
   const companies = [
     {
       name: "Nylas",
-      link: "https://talk.openmrs.org/u/aahil/summary",
+      link: "https://developer.nylas.com/",
       image: "/new_nylas_logo_blue.png"
     },
     {
