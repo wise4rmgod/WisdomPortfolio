@@ -5,7 +5,7 @@ export default function Companies() {
     {
       name: "Nylas",
       link: "https://talk.openmrs.org/u/aahil/summary",
-      image: "public/new_nylas_logo_blue.png"
+      image: "/new_nylas_logo_blue.png"
     },
     {
       name: "Rootstock",
