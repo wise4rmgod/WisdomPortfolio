@@ -185,9 +185,15 @@ const Projects = () => {
       projects: [
         {
           title: "NeuBird AI API Guide",
-          description: "Quick start guide and API documentation for NeuBird AI platform integration.",
+          description: "Quick start guide and developer documentation for NeuBird AI platform integration.",
           tags: ["AI", "API", "Documentation"],
           links: { preview: "https://help.neubird.ai/introduction/quick_start/" },
+        },
+         {
+          title: "OpenMind Developer Docs",
+          description: "Quick start guide and developer documentation for OpenMind AI platform integration.",
+          tags: ["AI", "API", "Documentation"],
+          links: { preview: "https://docs.openmind.org/mintlify_splash" },
         },
         {
           title: "Technical Writing Masterclass",
