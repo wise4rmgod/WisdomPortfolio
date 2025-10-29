@@ -26,7 +26,7 @@ To set up the portfolio locally, you'll need to have the following installed on 
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/Aahil13/Portfolio.git
+git clone https://github.com/wise4rmgod/WisdomPortfolio.git
 ```
 
 ### Install Dependencies
